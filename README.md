@@ -2,6 +2,7 @@
 This is my practice ts of the repository, in order to facilitate take notes and review for myself.
 ## Local deployment
 I found a good way to do ts-challenge that you can local deployment in your computer.
+
 Please refer to 
 - video: https://www.bilibili.com/video/BV1a94y1Q7p9/?spm_id_from=333.788.recommend_more_video.10&vd_source=e9e3f68ebdcb9099bb8865bbe599ee5a
 - repository: https://github.com/fe-orz/type-challenge-helper
